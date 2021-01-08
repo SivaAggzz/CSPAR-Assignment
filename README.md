@@ -1,7 +1,8 @@
 # CSPAR-Assignment
 CSPAR is a simple application for Android built with Android Jetpack components including ViewModel, Livedata, Data-Binding concepts,Retrofit and other latest components.
 
-Features:
+
+# Features:
   - Maps Activity Integration & plotted the map for the points asked in the API
   - Data extracted from API
   - Profiles UI (List of all Profiles in the API)
@@ -14,7 +15,7 @@ Features:
   - API Calls using Retrofit
   
   
- # Permissions Used
+# Permissions Used
 - android.permission.ACCESS_FINE_LOCATION
 - android.permission.ACCESS_COARSE_LOCATION
 - android.permission.INTERNET
